@@ -1,8 +1,4 @@
 ### Hi there 👋
-I'm Evan Ottinger--a full-stack web developer and an information security enthusiast. My repository is full of projects I've started but haven't quite finished (I'll get to them eventually).
-
-You probably don't know me, but if you do it's either from my (minor) contribution to TCM's `Breach Parse` or from implementing dark mode on the TCM-Academy.
-
 <!--
 **evanottinger/evanottinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
