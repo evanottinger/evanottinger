@@ -1,4 +1,7 @@
 ### Hello there 🙋‍♂️
+
+<a rel="me" href="https://infosec.exchange/@evan_ottinger">Mastodon</a>
+
 <!--
 **evanottinger/evanottinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
